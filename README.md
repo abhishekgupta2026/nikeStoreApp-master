@@ -21,7 +21,7 @@ Nike Fake Store is a front-end web project that mimics an online shopping experi
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-/nike-fake-store.git
+   
    ```
 2. Navigate to the project directory:
    ```sh
@@ -55,5 +55,4 @@ Feel free to fork the repository and submit pull requests. Suggestions and impro
 This project is for educational purposes only and is not affiliated with Nike. Unauthorized commercial use of Nike branding is prohibited.
 
 ## Contact
-For any inquiries or collaboration opportunities, reach out at [your email or LinkedIn].
-
+For any inquiries or collaboration opportunities, reach out at abhishekkumargupta2026@gmail.com
