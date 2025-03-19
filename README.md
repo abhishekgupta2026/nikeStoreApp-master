@@ -19,19 +19,19 @@ Nike Fake Store is a front-end web project that mimics an online shopping experi
 - Fake API (JSON Server or other mock data provider)
 
 ## Installation & Setup
-1. Clone the repository:
+1. Clone the repository: https://github.com/abhishekgupta2026/nikeStoreApp-master/tree/main
    ```sh
    
    ```
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```sh
    cd nike-fake-store
    ```
-3. Install dependencies:
+4. Install dependencies:
    ```sh
    npm install
    ```
-4. Start the development server:
+5. Start the development server:
    ```sh
    npm start
    ```
