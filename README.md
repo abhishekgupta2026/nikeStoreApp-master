@@ -1,4 +1,4 @@
-# Nike Fake Store
+# Nike REPLICA Store
 
 ## Overview
 Nike Fake Store is a front-end web project that mimics an online shopping experience for Nike products. This project is designed to showcase UI/UX skills, frontend development expertise, and e-commerce website implementation.
